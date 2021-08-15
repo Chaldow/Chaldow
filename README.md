@@ -24,7 +24,6 @@
       src="https://github-readme-stats.vercel.app/api?username=chaldow&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaldow)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
