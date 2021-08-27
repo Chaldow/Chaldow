@@ -4,7 +4,7 @@
 
 ### Bem vindo ao meu perfil 👋🖐
 
-- 👤 Atualmente eu trabalho na NOVA Tecnologia como programador FullStack Júnior:<br>
+- 👤 Programador FullStack Júnior:<br>
   Back-end  -> <img align="center" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png"/><br>
   Front-end -> HTML, CSS, JavaScript;  <img align="center" height="30" src="https://i.pinimg.com/originals/4a/75/25/4a7525f0f00df7f2aac5604b10cab82c.png"/><br> 
   DataBase  -> SQL Server e MySql;  <img align="center" height="30" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"/><br> 
