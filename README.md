@@ -10,7 +10,7 @@
   DataBase  -> SQL Server e MySql;  <img align="center" height="30" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"/><br> 
 
     
-- 📚 Eu atualmente estou aprendendo JavaScript (React) e JAVA☕
+- 📚 Eu atualmente estou aprendendo JavaScript (React) e Python ☕
 - 📘 3° e último ano em ADS na Unicesumar.
 - 📫 Fale comigo pelo email nunesaxa@gmail.com
 - 💼 Meu Linkedin https://www.linkedin.com/in/guilherme-nunes-634ab2191/
