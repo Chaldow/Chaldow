@@ -3,16 +3,20 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Chaldow)](https://github.com/Chaldow) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-nunes-634ab2191/)](https://www.linkedin.com/in/guilherme-nunes-634ab2191/)
 
 ### Bem vindo ao meu perfil 👋🖐
-Engenheiro de dados, atuando em Martech ( DP6 ).
-- 👤 Programador FullStack Júnior ( Freelancer ):<br>
+- 👤 Atualmente trabalhando como Data Enginner.
+- 👤 Programador FullStack PHP ( Freelancer ):<br>
   Back-end  -> <img align="center" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png"/><br>
   Front-end -> HTML, CSS, JavaScript;  <img align="center" height="30" src="https://i.pinimg.com/originals/4a/75/25/4a7525f0f00df7f2aac5604b10cab82c.png"/><br> 
   DataBase  -> SQL Server e MySql;  <img align="center" height="30" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"/><br> 
 
     
-- 📚 - Atualmente estou aprimorando minhas habilidades nas ferramentas do Google: Google Cloud Platform e Google Marketing Platform.
-- 📚 - Aprendendo Python, Machine Learning, JavaScript.
+👤 - Atuei em uma Startup como FullStack PHP;
+- Atualmente trabalhando como Data Enginner;
+
 - 📘 - Graduado em Analise e Desenvolvimento de Sistemas
+- 📚 - Atualmente estou aprimorando minhas habilidades nas ferramentas do Google: Google Cloud Platform e Google Marketing Platform.
+- 📚 - Estudando React e Node.
+- 👨‍🚀 - Novo astronauta IGNITE na Rocketseat
 - 📫 - Fale comigo pelo email nunesaxa@gmail.com
 - 💼 - Linkedin https://www.linkedin.com/in/guilherme-nunes-634ab2191/
 
